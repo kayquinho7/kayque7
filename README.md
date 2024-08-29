@@ -1,5 +1,4 @@
-### Bem vindo ao inferno : 
-
+### Bem vindo ao inferno
 Meu nome è Kayque
 Estou estudando no alura
 Mstou me desenvolvendo na linguagem java script
